@@ -14,7 +14,7 @@ Example Profile Structure
         },
         {
             label: "Button Two",
-            url: "http://test.com/test2.php"
+            url: "http://test.com/test2.php", 
             action: "POST",
             extras: [
                 ...
