@@ -6,6 +6,7 @@ Example Profile Structure
 ```json
 {
     "name": "Test",
+    "timeout": 20
     "controls": [
         {
             "label": "Button One",
