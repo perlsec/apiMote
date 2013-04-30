@@ -1,11 +1,12 @@
 apiMote
 =======
+...
 
-Example Profile Structure
+Profile Structure
 =================
 ```json
 {
-    "name": "Test",
+    "name": "Sample Profile",
     "timeout": 20,
     "controls": [
         {
